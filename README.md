@@ -1,5 +1,5 @@
 
-<h1>GymRat </h1>
+<h1>GYMRAT </h1>
 
 <img src="https://i.imgur.com/ky6COtU.png"  height="80%" width="80%" alt="landing page"/> 
 
