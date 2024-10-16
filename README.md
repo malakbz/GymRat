@@ -5,10 +5,7 @@
 
 <h2>Description</h2>
 GymRat is third year project , it is an ecommerce  mobile and web application that helps facilitates the shopping experience for Activewear by developing a user-friendly online platform that provides easy navigation for the customers and fosters a culture of trust and reliability.
-<br>
 
-https://github.com/user-attachments/assets/f06b2600-4e43-41c2-a083-24c98902fafe
-<br>
 <h2>Languages and Utilities Used</h2>
 - <b>React Js </b> 
 - <b>Django Rest</b> 
@@ -31,3 +28,7 @@ https://github.com/user-attachments/assets/f06b2600-4e43-41c2-a083-24c98902fafe
 - Reviews and Comments
 - Magazin Club 
 - My info (user)
+<br>
+<br>
+
+https://github.com/user-attachments/assets/f06b2600-4e43-41c2-a083-24c98902fafe
