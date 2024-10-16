@@ -1,7 +1,7 @@
 
 <h1>GYMRAT </h1>
 
-<img src="https://i.imgur.com/ky6COtU.png"  height="80%" width="80%" alt="landing page"/> 
+<img src=""  height="80%" width="80%" alt="landing page"/> 
 
 <h2>Description</h2>
 GymRat is third year project , it is an ecommerce  mobile and web application that helps facilitates the shopping experience 
