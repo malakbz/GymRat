@@ -31,4 +31,4 @@ GymRat is an ecommerce  mobile and web application that helps facilitates the sh
 <br>
 <br>
 
-https://github.com/user-attachments/assets/f06b2600-4e43-41c2-a083-24c98902fafe
+https://github.com/user-attachments/assets/727e4a7c-bc95-4ca0-a41b-a7ff595e7996
