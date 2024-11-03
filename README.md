@@ -9,7 +9,7 @@ GymRat is an ecommerce  mobile and web application that helps facilitates the sh
 <h2>Languages and Utilities Used</h2>
 - <b>React Js </b> 
 - <b>Django Rest</b> 
-- <b>SQLite</b>
+- <b>PostgreSQL</b>
 - <b>Flutter</b>
 
 
